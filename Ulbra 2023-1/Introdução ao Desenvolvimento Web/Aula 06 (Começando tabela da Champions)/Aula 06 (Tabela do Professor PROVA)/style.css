@@ -1,0 +1,66 @@
+*{ /* Estilizando todos os elementos da página*/ 
+    margin: 0; /* zerando as margens*/ 
+    box-sizing: border-box; /*Limitando tamanho das caixas*/ 
+    font-family: Arial, Helvetica, sans-serif; /*Definando a fonte da página*/ } 
+    body{ 
+    background-color: rgb(245,245,245); /*Alterando cor de fundo da página*/ } 
+    .header{ /*Estilizando altura, cor de fundo, cor do conteúdo e preenchimento da caixa*/ height: 100px; 
+    background-color: #162E58; 
+    color: white; 
+    padding: 10px; 
+    } 
+    .header h1{ /*Estilizando o título principal da header*/ 
+    font-size: 16px; 
+    font-weight: normal; 
+    } 
+    .header h2{ /*Estilizando o segundo título da header*/ 
+    font-size: 16px; 
+    text-align: center; 
+    font-weight: normal; 
+    margin-top: 50px; /*Adicionando uma margem acima para deixar o contéudo mais próximo  a borda.*/ 
+    } 
+    .grupos, .gols{/*Estilzando a caixa grupos e gols*/
+    width: 50%; /*Defindo a largura para 50% da página*/ 
+    margin: 0 auto; /*Centralizando o conteúdo*/ 
+    background-color: white; /*Alterando cor de fundo*/ 
+    } 
+    table{/*Estilizando as tabelas*/ 
+    width: 100%; /*Fazendo com que ocupe 100% da largura da caixa*/ font-size: 14px; /*Alterando tamanho da fonte*/ 
+    margin-top: 10px; /*Afastando a tabela do título*/ 
+    border-collapse: collapse; /*Unindo as bordas*/ 
+    } 
+    th,td{/*Criando bordas acima dos conteúdos*/ 
+    border-top: 0.2px solid #70757a; 
+    padding: 5px; 
+    } 
+    tr{/*Centralizando conteúdo das linhas*/ 
+    text-align: center; 
+    } 
+    th{/*Estilizando a tag de cabeçalho da tabela*/ 
+    font-weight: normal; /*Removendo o negrito*/ 
+    color: #70757a; /*Alterando a cor da fonte*/ 
+    border-top: none; /*Removendo a borda superior*/ 
+    } 
+    .img-clube{ /*Criando uma classe para definir o tamnho da imagem do clube*/ width: 24px; 
+    height: 24px; 
+    } 
+    .grupos h3{/*Adicionando um prencimento no título da tabela*/ padding-top: 20px; 
+    } 
+    .gols h3{/*Estilizando o título da tabela gols*/ 
+    background-color: #162E58;
+    height: 40px; 
+    font-weight: normal; 
+    color: white; 
+    padding: 10px; 
+    } 
+    .img-jogador{/*Criando uma classe para definir o tamnho da imagem do jogador*/ width: 36px; 
+    height: 36px; 
+    border-radius: 50%; /*Deixando a imagem redonda*/ 
+    } 
+    .left{ /*Criando uma classe para alinhar os conteúdos a esquerda*/ text-align: left; 
+    } 
+    .w30{ /*Criando uma classe para definir uma largura de 30 px*/ width: 30px; 
+    } 
+    .w200{ /*Criando uma classe para definir uma largura de 200px*/ width: 200px; 
+    }
+    

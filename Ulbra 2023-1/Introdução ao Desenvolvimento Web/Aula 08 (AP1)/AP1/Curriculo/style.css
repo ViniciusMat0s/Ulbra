@@ -1,0 +1,98 @@
+*{
+    margin: 0 auto; /* Uso de Margin */
+    box-sizing: border-box;
+    
+    }
+    .pai{ /* Uma das formatações de cores, tamanhos e tipos */
+    width: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+    }
+    .limpar{
+    clear: both;
+    }
+    .topo{
+    height: 80px;
+    background-color: rgb(76, 44, 105);
+    margin-top: 20px; /* Uso de Margin */
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    }
+    .topo span{
+    margin: 0 20px;
+    padding-top: 10px;
+    display: inline-block;
+    }
+    .topo img{
+    height: 20px;
+    width: 20px;
+    }
+    .perfil{ /* Imagem arredondada para linkagem de rede social */
+    height: 200px;
+    border-bottom: 2px solid;
+    }
+    .dados{ /* Uma das classes de divs */
+    width: 60%;
+    float: left;
+    text-align: right;
+    padding-top: 60px; /* Uso de Padding */
+    padding-right: 20px; /* Uso de Padding */
+    }
+    .dados p{ /* Tag */
+    font-size: 20px;
+    }
+    .foto{
+    width: 40%;
+    float: left;
+    }
+    .foto img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%; /* Imagem com bordas arredondadas */
+    margin-top: 30px;
+    clear: both;
+    }
+    .experiencias{ /* Uma das classes de divs */
+    width: 60%;
+    float: left; /* Primeiro uso do float */
+    padding-left: 5px;
+    font-size: 16px;
+    background-color: lightgrey; /* Alterando a cor de fundo de uma seção através de classes */
+    }
+    .experiencias h2{ /* Tag */
+    text-decoration: underline; /* Um dos títulos sublinhados */
+    }
+    .experiencias p{ /* Tag */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    text-align: justify; /* Justificando um parágrafo */
+    }
+    .tech{
+    width: 40%;
+    float: left; /* Segundo uso do float */ 
+    border-left: 2px solid; /* Uso de Border */
+    padding-left: 5px;
+    font-size: 16px;
+    }
+    .tech h2{ /* Tag */
+    text-decoration: underline; /* Um dos títulos sublinhados */
+    }
+    .tech p{
+    width: 50%;
+    float: left;
+    clear: both;
+    margin-bottom: 5px;
+    }
+    .circulo{ /* Classe com elementos para definir habilidades de 1 a 5 */
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: rgb(76, 44, 105);
+    margin-right: 5px;
+    float: left;
+    }
+    .principal{
+    border-bottom: 2px solid; /* Uso de Border */
+    }

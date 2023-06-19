@@ -1,0 +1,29 @@
+TCP/IP é utilizado hoje com ipv6 e ipv4
+Camada física: cabeamento, hubs, placas de rede, transmissão wifi ou qualquer dispositivo físico
+A camada física gera erros e interferências no sinal, um cabo de rede que passe de 180m pode sofrer atenuações
+A camada de enlace serve para corrigir erros do meio físico, o MAC Adress fica dentro dessa camada (tipo o endereço físico do windows)
+O IVP4 serve para identificar minha máquina na minha rede
+A camada de rede é onde se encontra o IP, interno e externo, roteamento
+A camada de transporte: ICMP, TCP (controle de transmissão, se a internet cair eu consigo recuperar o que eu baixei) e UDP (sem controle, se a conexão cair, parou tudo)
+A camada de sessão serve para calcular o tempo de quanto tempo leva para se conectar a outro computador
+A camada de apresentação serve para preparar os dados, diz para onde cada dado vai ir, como capsular e qual o tamanho do pacote
+A camada de aplicação (a principal): e-mail (IMAP, POP e STP), chat, HTTPS é um protocolo de aplicação
+A OSI diz que existem protocolos que são regras de comunicação
+Caminho do RM OSI a percorrer (PC1) Aplicação > Apresentação > Sessão > Transporte, Rede, Enlace, Física > (PC2) Física > Enlace > Rede > Transporte > Sessão > Apresentação > Aplicação
+Camada de aplicação (dado)> Camada de transporte (pacote) > Camada de internet (datagrama) > Camada de interface de rede (Quadro ethernet)
+Aplicação (Aplicação, apresentação e sessão) > Transporte (transporte) > Internet (rede) > Acesso a Rede (Enlance e Física)
+RFC é um documento técnico pras organizações que trabalham com tecnologia, ela diz como eu devo compôr/criar o IP
+O modelo RM-OSI é um modelo que serve de referência para as organizações trabalharem com tecnologia
+O servidor possui 65.530 portas TCP e 65.536 portas UDP
+Como ver as portas abertas? ( no cmd -> netstat -tan)
+
+Plateau Gartner é o nome do gráfico
+IoT = Internet of Things (internet em tudo)
+M2M = Comunicação Máquina - Máquina
+M2M > IoT: Aplicação, Comunicação e Sensores, Atuadores e Processamento
+Nova Internet: Protocolos:
+Aplicação - (pessoas) HTTP / CoAP e MQTT (coisas)
+Transporte - (pessoas) TCP/UDP / UDP e TCP (coisas)
+Rede - (pessoas) IPV4/IPV6 / 6LoWPAN e 6LoWPAN (coisas)
+Hardware M2M / IoT: Intel Edison, ARM Cortex M, Ingenic Newton, Arduíno
+Softwares M2M / IoT: Contiki, TinyOS, Riot, Eclipse, Linguagem Lua, Android Wear

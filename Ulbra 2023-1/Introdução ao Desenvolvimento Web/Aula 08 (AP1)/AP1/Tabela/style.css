@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+.header{
+    height: 104px;
+    width: 100%;
+    background-color: #162E58;
+    color: white;
+    padding: 10px
+}
+.header h1{
+    font-size: 16px;
+    font-weight: normal;
+    padding: 10px
+}
+.header h2{
+    font-size: 16px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 35px;
+    border-bottom: 2px solid #eff0f1;
+    width: 100%
+}
+table{
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 10px
+}
+table,th,td,tr{
+    border-collapse: collapse;
+    padding: 6.5px;
+}
+.img-clube{
+    width: 24px;
+    height: 24px;
+}
+.grupos{ /* Div dos grupos */ /* FIZ TODOS OS GRUPOS */
+    width: 60%; /* Tabela ocupando 60% */
+    margin: 0 auto;
+    background-color: white;
+    border: 2px solid #eff0f1;
+}
+.grupos h3{
+    padding-top: 20px;
+}
+tr{
+    text-align: center;
+}
+th{
+    font-weight: normal;
+    color: #70757a;
+}
+body{
+    background-color: #f8f9fa;
+}
+.gols{ /* Div de gols  */ /* Tabela para gols com imagem dos jogadores */
+    width: 60%; /* Tabela ocupando 60% */
+    background-color: white;
+    margin: 0 auto;
+    border: 2px solid #eff0f1;
+}
+.gols h3{
+    background-color: #162E58;
+    color: white;
+    height: 50px;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 15px
+}
+.img-jogador{ /* Formatação das imagens dos jogadores */
+    width: 36px;
+    height: 36px;
+    border-radius: 50%
+}
+.cartoes{ /* Div dos cartões seguindo o padrão da tabela de gols */ 
+    width: 60%; /* Tabela ocupando 60% */
+    background-color: white;
+    margin: 0 auto;
+    border: 2px solid #eff0f1;
+}
+.cartoes h3{
+    background-color: #162E58;
+    color: white;
+    height: 50px;
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 15px;
+}

@@ -1,0 +1,14 @@
+git checkout -b (branch)
+(criar branch)
+
+git revert
+(reverter alterações)
+
+git merge
+(fazer o merge no repositório)
+
+git log
+(ver o histórico de ações no repositório)
+
+git rm (arquivo)
+(remover arquivo)

@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+    font-size: 30px;
+    background-color: lightblue;
+    margin-top: 50px
+}
+table, th, td{
+    border: solid 5px;
+    text-align: center;
+    border-collapse: collapse;
+}
+td{
+    padding-top: 10px
+}
+tr{
+    height: 60px;
+}
+.rowspan{
+    text-align:center;
+    background-color: aqua;
+    height: 40px;
+}
