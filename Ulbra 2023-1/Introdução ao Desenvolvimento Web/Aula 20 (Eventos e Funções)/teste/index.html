@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 20 - Eventos e Funções</title>
+</head>
+<!--<body onload="alo()"> Evento acionado por carregamento da página--> 
+<body>
+    <h1>Eventos e Funções</h1>
+
+    <button onclick="alo()">Chamar Função</button>
+    <button onclick="olaNome('Vinícius')">Olá nome</button>
+    <br>
+    <br>
+
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" onchange="textoMudou()">
+        <button type="button" onclick="saudacao()">Saudação</button>
+    </form>
+
+    <span onmouseover="mouseSobre()">Passe o mouse.</span>
+    <span onmouseout="mouseFora()">Passe o mouse.</span>
+
+    <form>
+        <label for="user">Usuário</label>
+        <input type="text" id="user" onfocus="emFoco()" onblur="perdeuFoco()">
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
