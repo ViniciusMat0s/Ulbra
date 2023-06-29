@@ -1,0 +1,10 @@
+Rodada 1: 4 - 1
+Rodada 2: 1 - 6
+Rodada 3: 4 - 2
+Rodada 4: 1 - 2
+Rodada 5: 4 - 3
+Rodada 6: 3 - 3
+Rodada 7: 1 - 6
+Rodada 8: 4 - 6
+Rodada 9: 5 - 6
+Rodada 10: 6 - 2

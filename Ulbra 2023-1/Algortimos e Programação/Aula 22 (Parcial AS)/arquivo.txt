@@ -1,0 +1,84 @@
+
+[Rodada 1] Vinicius tirou 3.
+[Rodada 1] Brunna tirou 2.
+[Rodada 1] Vinicius venceu a rodada.
+[Rodada 2] Vinicius tirou 6.
+[Rodada 2] Brunna tirou 3.
+[Rodada 2] Vinicius venceu a rodada.
+[Rodada 3] Vinicius tirou 4.
+[Rodada 3] Brunna tirou 5.
+[Rodada 3] Brunna venceu a rodada.
+[Rodada 4] Vinicius tirou 3.
+[Rodada 4] Brunna tirou 3.
+[Rodada 4] Houve um empate na rodada.
+[Rodada 5] Vinicius tirou 3.
+[Rodada 5] Brunna tirou 4.
+[Rodada 5] Brunna venceu a rodada.
+[Rodada 6] Vinicius tirou 6.
+[Rodada 6] Brunna tirou 4.
+[Rodada 6] Vinicius venceu a rodada.
+[Rodada 7] Vinicius tirou 1.
+[Rodada 7] Brunna tirou 3.
+[Rodada 7] Brunna venceu a rodada.
+[Rodada 8] Vinicius tirou 3.
+[Rodada 8] Brunna tirou 4.
+[Rodada 8] Brunna venceu a rodada.
+[Rodada 9] Vinicius tirou 1.
+[Rodada 9] Brunna tirou 3.
+[Rodada 9] Brunna venceu a rodada.
+[Rodada 10] Vinicius tirou 4.
+[Rodada 10] Brunna tirou 2.
+[Rodada 10] Vinicius venceu a rodada.
+[Rodada 10] Vinicius venceu o jogo. parabéns!.
+[Placar final]:
+
+Vinicius: 34
+Brunna: 33
+
+[Placar do jogo]:
+
+Vinicius: 1
+Brunna: 0
+Empates: 0
+
+[Rodada 1] Vinícius tirou 2.
+[Rodada 1] Brunna tirou 5.
+[Rodada 1] Brunna venceu a rodada.
+[Rodada 2] Vinícius tirou 2.
+[Rodada 2] Brunna tirou 2.
+[Rodada 2] Houve um empate na rodada.
+[Rodada 3] Vinícius tirou 2.
+[Rodada 3] Brunna tirou 1.
+[Rodada 3] Vinícius venceu a rodada.
+[Rodada 4] Vinícius tirou 3.
+[Rodada 4] Brunna tirou 3.
+[Rodada 4] Houve um empate na rodada.
+[Rodada 5] Vinícius tirou 3.
+[Rodada 5] Brunna tirou 3.
+[Rodada 5] Houve um empate na rodada.
+[Rodada 6] Vinícius tirou 5.
+[Rodada 6] Brunna tirou 1.
+[Rodada 6] Vinícius venceu a rodada.
+[Rodada 7] Vinícius tirou 5.
+[Rodada 7] Brunna tirou 5.
+[Rodada 7] Houve um empate na rodada.
+[Rodada 8] Vinícius tirou 2.
+[Rodada 8] Brunna tirou 1.
+[Rodada 8] Vinícius venceu a rodada.
+[Rodada 9] Vinícius tirou 6.
+[Rodada 9] Brunna tirou 1.
+[Rodada 9] Vinícius venceu a rodada.
+[Rodada 10] Vinícius tirou 4.
+[Rodada 10] Brunna tirou 1.
+[Rodada 10] Vinícius venceu a rodada.
+[Rodada 10] Vinícius venceu o jogo. parabéns!.
+[Placar final]:
+
+Vinícius: 34
+Brunna: 23
+
+[Placar do jogo]:
+
+Vinícius: 1
+Brunna: 0
+Empates: 0

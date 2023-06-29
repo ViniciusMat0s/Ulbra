@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=], initial-scale=1.0">
+    <title>Lista de Tarefas - TDE 21</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div>
+            <h1>Lista de Tarefas</h1>
+            <div class="adicionar">
+                <form>
+                    <label for="tarefa">Nome da tarefa</label>
+                    <input type="text" id="tarefa">
+                    <button type="button" onclick="inserir()" class="adicionarbtn">Adicionar</button>
+                </form>
+            </div>
+            <div class="pendentes">
+                <h2>Tarefas Pendentes</h2>
+                
+                <ol id="pendentes">
+    
+                </ol>
+            </div>
+            <div class="concluidas">
+                <h2>Tarefas Concluídas</h2>
+        
+                <ol id="concluidas">
+    
+                </ol>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -12,11 +12,11 @@ function inserir(){
     remover.addEventListener('click', function(){li.remove()})
 
     const concluir = document.createElement('button')
-    concluir.textContent = 'Remover' //colocar imagem da lixeirinha
+    concluir.textContent = 'Concluída' //colocar imagem da lixeirinha
     concluir.style.backgroundImage = 'url da imagem de lixeirinha'
     concluir.type = 'button'
     concluir.style.marginLeft = '20px'
-    concluir.addEventListener('click', function(){li.remove()})
+    concluir.addEventListener('click', function(){li.add()})
 
     li.appendChild(remover)
     li.appendChild(concluir)
