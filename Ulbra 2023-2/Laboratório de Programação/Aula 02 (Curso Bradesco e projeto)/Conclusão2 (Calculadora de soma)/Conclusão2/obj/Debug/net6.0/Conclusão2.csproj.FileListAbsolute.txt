@@ -1,0 +1,15 @@
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\bin\Debug\net6.0\Conclusão2.exe
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\bin\Debug\net6.0\Conclusão2.deps.json
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\bin\Debug\net6.0\Conclusão2.runtimeconfig.json
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\bin\Debug\net6.0\Conclusão2.dll
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\bin\Debug\net6.0\Conclusão2.pdb
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.csproj.AssemblyReference.cache
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.AssemblyInfoInputs.cache
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.AssemblyInfo.cs
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.csproj.CoreCompileInputs.cache
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.dll
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\refint\Conclusão2.dll
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.pdb
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\Conclusão2.genruntimeconfig.cache
+C:\Users\kod4s\source\repos\Conclusão2\Conclusão2\obj\Debug\net6.0\ref\Conclusão2.dll
