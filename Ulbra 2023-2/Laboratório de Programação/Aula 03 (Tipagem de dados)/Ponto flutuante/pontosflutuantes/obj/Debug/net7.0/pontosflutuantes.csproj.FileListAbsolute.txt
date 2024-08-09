@@ -1,0 +1,15 @@
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\bin\Debug\net7.0\pontosflutuantes.exe
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\bin\Debug\net7.0\pontosflutuantes.deps.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\bin\Debug\net7.0\pontosflutuantes.runtimeconfig.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\bin\Debug\net7.0\pontosflutuantes.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\bin\Debug\net7.0\pontosflutuantes.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.csproj.AssemblyReference.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.AssemblyInfoInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.AssemblyInfo.cs
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.csproj.CoreCompileInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\refint\pontosflutuantes.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\pontosflutuantes.genruntimeconfig.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ponto flutuante\pontosflutuantes\obj\Debug\net7.0\ref\pontosflutuantes.dll

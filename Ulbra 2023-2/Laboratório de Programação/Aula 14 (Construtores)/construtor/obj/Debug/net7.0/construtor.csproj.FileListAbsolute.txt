@@ -1,0 +1,15 @@
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\bin\Debug\net7.0\construtor.exe
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\bin\Debug\net7.0\construtor.deps.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\bin\Debug\net7.0\construtor.runtimeconfig.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\bin\Debug\net7.0\construtor.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\bin\Debug\net7.0\construtor.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.csproj.AssemblyReference.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.AssemblyInfoInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.AssemblyInfo.cs
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.csproj.CoreCompileInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\refint\construtor.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\construtor.genruntimeconfig.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 14\construtor\obj\Debug\net7.0\ref\construtor.dll

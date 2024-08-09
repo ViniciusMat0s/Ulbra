@@ -1,0 +1,15 @@
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\bin\Debug\net7.0\tdeinterfaces.exe
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\bin\Debug\net7.0\tdeinterfaces.deps.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\bin\Debug\net7.0\tdeinterfaces.runtimeconfig.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\bin\Debug\net7.0\tdeinterfaces.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\bin\Debug\net7.0\tdeinterfaces.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.csproj.AssemblyReference.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.AssemblyInfoInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.AssemblyInfo.cs
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.csproj.CoreCompileInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\refint\tdeinterfaces.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\tdeinterfaces.genruntimeconfig.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 20\tdeinterfaces\obj\Debug\net7.0\ref\tdeinterfaces.dll

@@ -1,0 +1,15 @@
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.csproj.AssemblyReference.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.AssemblyInfoInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.AssemblyInfo.cs
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.csproj.CoreCompileInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\bin\Debug\net7.0\ap2.exe
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\bin\Debug\net7.0\ap2.deps.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\bin\Debug\net7.0\ap2.runtimeconfig.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\bin\Debug\net7.0\ap2.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\bin\Debug\net7.0\ap2.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\refint\ap2.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ap2.genruntimeconfig.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 15 (AP2)\ap2\obj\Debug\net7.0\ref\ap2.dll

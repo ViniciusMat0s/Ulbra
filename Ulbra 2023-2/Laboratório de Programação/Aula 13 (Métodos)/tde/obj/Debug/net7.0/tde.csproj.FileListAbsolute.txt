@@ -1,0 +1,15 @@
+C:\ads\lp\aula13\tde\bin\Debug\net7.0\tde.exe
+C:\ads\lp\aula13\tde\bin\Debug\net7.0\tde.deps.json
+C:\ads\lp\aula13\tde\bin\Debug\net7.0\tde.runtimeconfig.json
+C:\ads\lp\aula13\tde\bin\Debug\net7.0\tde.dll
+C:\ads\lp\aula13\tde\bin\Debug\net7.0\tde.pdb
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.csproj.AssemblyReference.cache
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.GeneratedMSBuildEditorConfig.editorconfig
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.AssemblyInfoInputs.cache
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.AssemblyInfo.cs
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.csproj.CoreCompileInputs.cache
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.dll
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\refint\tde.dll
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.pdb
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\tde.genruntimeconfig.cache
+C:\ads\lp\aula13\tde\obj\Debug\net7.0\ref\tde.dll

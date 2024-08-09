@@ -1,0 +1,15 @@
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.exe
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.deps.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.runtimeconfig.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\bin\Debug\net7.0\ConversaoDeTipos.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.csproj.AssemblyReference.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.AssemblyInfoInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.AssemblyInfo.cs
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\refint\ConversaoDeTipos.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ConversaoDeTipos.genruntimeconfig.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\ConversaoDeTipos\obj\Debug\net7.0\ref\ConversaoDeTipos.dll

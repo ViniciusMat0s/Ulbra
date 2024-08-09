@@ -1,0 +1,15 @@
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\bin\Debug\net7.0\exercicios.exe
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\bin\Debug\net7.0\exercicios.deps.json
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\bin\Debug\net7.0\exercicios.runtimeconfig.json
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\bin\Debug\net7.0\exercicios.dll
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\bin\Debug\net7.0\exercicios.pdb
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.csproj.AssemblyReference.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.dll
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\refint\exercicios.dll
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.pdb
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 03\exercicios\obj\Debug\net7.0\ref\exercicios.dll

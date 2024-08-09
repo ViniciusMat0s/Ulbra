@@ -1,0 +1,15 @@
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.csproj.AssemblyReference.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfo.cs
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.exe
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.deps.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.runtimeconfig.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\refint\OperadoresRelacionais.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.genruntimeconfig.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Aula 04\OperadoresRelacionais\obj\Debug\net7.0\ref\OperadoresRelacionais.dll

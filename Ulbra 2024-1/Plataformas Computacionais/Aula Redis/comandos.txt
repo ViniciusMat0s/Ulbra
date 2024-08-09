@@ -1,0 +1,11 @@
+Subir Imagem
+docker compose up -d
+
+Baixar Imagem
+docker compose down
+
+Todos os arquivos .yml são exigentes com identação
+A imagem de "image: redis:latest" é puxada do site Docker Hub
+Portas: primeira porta é da máquina local, posso definir qualquer uma, desde que não esteja sendo utilizada, a segunda porta é a porta paderão do redis
+Colocar o container_name com o mesmo nome da máquina
+Driver bridge conecta as máquinas

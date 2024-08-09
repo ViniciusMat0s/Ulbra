@@ -1,0 +1,34 @@
+body{
+    background: #1F2667;}
+
+h1{
+    color: white;
+    font-family: "Poppins";
+}
+
+h2{
+    color:#00d4ff;
+    font-family: "Poppins"
+}
+
+h3{
+    color:#00d4ff;
+    font-family: "Poppins";
+    margin-top: -30px;
+}
+
+p{
+    color: white;
+    font-family: "Poppins";
+    margin-top: -15px;
+}
+
+.intro{
+    width: 50%;
+    text-align: center;
+}
+
+.explicacao{
+    width: 50%;
+    text-align: center;
+}

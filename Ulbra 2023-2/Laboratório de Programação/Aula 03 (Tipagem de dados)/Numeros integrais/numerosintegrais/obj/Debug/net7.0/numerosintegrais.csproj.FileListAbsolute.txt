@@ -1,0 +1,15 @@
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\bin\Debug\net7.0\numerosintegrais.exe
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\bin\Debug\net7.0\numerosintegrais.deps.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\bin\Debug\net7.0\numerosintegrais.runtimeconfig.json
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\bin\Debug\net7.0\numerosintegrais.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\bin\Debug\net7.0\numerosintegrais.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.csproj.AssemblyReference.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.AssemblyInfoInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.AssemblyInfo.cs
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.csproj.CoreCompileInputs.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\refint\numerosintegrais.dll
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.pdb
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\numerosintegrais.genruntimeconfig.cache
+C:\Users\hotel\OneDrive\Área de Trabalho\Ulbra\Ulbra\Ulbra 2023-2\Laboratório de Programação\Numeros integrais\numerosintegrais\obj\Debug\net7.0\ref\numerosintegrais.dll
